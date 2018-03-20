@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\UserApp.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\UserApp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\UserApp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\obj\Debug\UserApp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\obj\Debug\UserApp.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\obj\Debug\UserApp.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\obj\Debug\UserApp.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\obj\Debug\UserApp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\obj\Debug\UserApp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\ConsoleApplication1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\ConsoleApplication1.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplication1\UserApp\bin\Debug\EntityFramework.SqlServer.xml
